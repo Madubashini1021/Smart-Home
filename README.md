@@ -4,9 +4,13 @@ Statistical Analysis on smart home energy consumption data, evaluating environme
 The "Smart Home: Weather vs. Energy" case study examines how environmental factors and power generation sources affect energy usage in smart homes. This topic is critical because understanding these influences can help optimize energy consumption, leading to cost savings, enhanced energy efficiency, and environmental benefits. We seek to determine the correlations between factors that affect smart home energy usage by utilizing weather, energy production, and consumption data. 
 
 A.	 Challenges 
+
 Among the difficulties faced are:
+
 •	 Coordinating and combining vast amounts of heterogeneous data from multiple sources.
+
 •	Addressing missing or duplicate values and guaranteeing data consistency and quality.
+
 •	Determining pertinent environmental elements that affect smart home energy use, either directly or indirectly.
  
 B.	  Objective and Requirements
